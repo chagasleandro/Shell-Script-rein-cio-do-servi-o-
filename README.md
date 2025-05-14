@@ -1,5 +1,3 @@
-# Shell-Script-rein-cio-do-servi-o-
-
 # Zabbix + Telegram Auto-Recovery
 
 Este projeto é uma automação para reiniciar serviços críticos automaticamente quando o Zabbix detecta falhas, enviando alertas por Telegram para a equipe de suporte técnico.
