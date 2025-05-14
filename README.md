@@ -1,0 +1,1 @@
+# Shell-Script-rein-cio-do-servi-o-
